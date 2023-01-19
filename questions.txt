@@ -1,0 +1,18 @@
+Question 1)
+A TCP Socket in python is specified by importing the sockets module and using the constants
+AF_INET, and SOCK_STREAM when creating the socket.
+
+Question 2)
+
+
+Question 3)
+
+
+Question 4)
+
+
+Question 5)
+
+
+Question 6)
+https://github.com/laingkob/404Lab2
